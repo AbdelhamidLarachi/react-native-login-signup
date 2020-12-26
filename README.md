@@ -33,4 +33,4 @@ npx react-native run-android
 
 ```
 
-[![Donate](https://img.shields.io/badge/Buy%20me%20a%20cofee-donate-green?style=for-the-badge&logo=BUY%20ME%20A%20coffee)](https://www.buymeacoffee.com/abdelhamid)
+[![Donate](https://img.shields.io/badge/Buy%20me%20a%20cofee-Donate-lightgreen?style=flat&logo=BUY%20ME%20A%20coffee)](https://www.buymeacoffee.com/abdelhamid)
