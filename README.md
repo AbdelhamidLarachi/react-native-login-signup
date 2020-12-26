@@ -13,9 +13,8 @@
 
 ## Screenshots
 
-<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-document-verification/master/img/welcome.png"> <img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-document-verification/master/img/upload.png">
-
-<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-document-verification/master/img/paymentType.png">
+<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-login-signup/master/img/register.png"> <img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-login-signup/master/img/welcomeBack.png">
+<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-login-signup/master/img/onBoarding.png"> 
 
 ## Development
 
