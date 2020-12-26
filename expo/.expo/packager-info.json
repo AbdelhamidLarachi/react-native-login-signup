@@ -1,0 +1,10 @@
+{
+  "expoServerPort": 19000,
+  "expoServerNgrokUrl": "https://2z-fjj.anonymous.project.exp.direct",
+  "packagerNgrokUrl": "https://packager.2z-fjj.anonymous.project.exp.direct",
+  "ngrokPid": 33073,
+  "packagerPort": 19001,
+  "packagerPid": 33060,
+  "webpackServerPort": null,
+  "devToolsPort": 19002
+}
