@@ -2,8 +2,7 @@
   <h1 align="center">OnBoarding Login Signup - React Native</h1>  
 </p>
 
-[![License](https://img.shields.io/github/license/AbdelhamidLarachi/react-native-ecommerce)](https://github.com/AbdelhamidLarachi/react-native-ecommerce/blob/main/LICENSE) [![Version](https://img.shields.io/badge/version-v1.0.0-blue)]() [![Framework](https://img.shields.io/badge/Made%20with-React_native-blue?style=flat&logo=react)](https://reactnative.dev/) [![libraries](https://img.shields.io/badge/%20-
-%20third%20party%20libraries-lightgrey)]() [![Donate](https://img.shields.io/badge/Buy%20me%20a%20cofee-Donate-lightgreen?style=flat&logo=BUY%20ME%20A%20coffee)](https://www.buymeacoffee.com/abdelhamid)
+[![License](https://img.shields.io/github/license/AbdelhamidLarachi/react-native-ecommerce)](https://github.com/AbdelhamidLarachi/react-native-ecommerce/blob/main/LICENSE) [![Version](https://img.shields.io/badge/version-v1.0.0-blue)]() [![Framework](https://img.shields.io/badge/Made%20with-React_native-blue?style=flat&logo=react)](https://reactnative.dev/) [![libraries](https://img.shields.io/badge/%20-%20third%20party%20libraries-lightgrey)]() [![Donate](https://img.shields.io/badge/Buy%20me%20a%20cofee-Donate-lightgreen?style=flat&logo=BUY%20ME%20A%20coffee)](https://www.buymeacoffee.com/abdelhamid)
 
 
 ## Pages
